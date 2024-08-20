@@ -1,2 +1,6 @@
-# nuevo-repositorio
-Nuevo repositorio para el curso de programación en SIG
+# Nuevo repositorio
+Este es un repositorio de ejemplo para mostrar la sintaxis Markdown.
+
+**Texto en negrita**
+
+[Universidad de Costa Rica](https://ucr.ac.cr)
