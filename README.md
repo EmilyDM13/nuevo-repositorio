@@ -8,4 +8,3 @@ Este es un repositorio de ejemplo para mostrar la sintaxis Markdown.
 Lista:
   1. Elemento 1
   2. Elemento 2
-  3. Elemento 3
